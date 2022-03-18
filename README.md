@@ -1,5 +1,5 @@
 ### Welcome to CommanderBlop's Github ###
-- 🌱 I’m currently learning computer science at Vanderbilt University.
+- 🌱 I’m a Computer Science major @ Vanderbilt University.
 - 💬 Ask me about how to cook the perfect medium-rare rib-eye.
 - 📫 Reach me at jiakai.long@vanderbilt.edu
 - 😄 Pronouns: He/Him/His
