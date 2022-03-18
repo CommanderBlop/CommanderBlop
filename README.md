@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to CommanderBlop's Github ###
+🌱 I’m currently learning computer science at Vanderbilt University.
+💬 Ask me about how to cook the perfect medium-rare rib-eye.
+📫 Reach me at jiakai.long@vanderbilt.edu
+😄 Pronouns: He/Him/His
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommanderBlop&theme=tokyonight&show_icons=true)
 
 <!--
 **CommanderBlop/CommanderBlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
