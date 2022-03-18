@@ -1,8 +1,8 @@
 ### Welcome to CommanderBlop's Github ###
-🌱 I’m currently learning computer science at Vanderbilt University.
-💬 Ask me about how to cook the perfect medium-rare rib-eye.
-📫 Reach me at jiakai.long@vanderbilt.edu
-😄 Pronouns: He/Him/His
+- 🌱 I’m currently learning computer science at Vanderbilt University.
+- 💬 Ask me about how to cook the perfect medium-rare rib-eye.
+- 📫 Reach me at jiakai.long@vanderbilt.edu
+- 😄 Pronouns: He/Him/His
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommanderBlop&theme=tokyonight&show_icons=true)
 
