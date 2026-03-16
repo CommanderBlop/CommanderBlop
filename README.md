@@ -1,7 +1,7 @@
 ### Welcome to CommanderBlop's Github ###
-- 🌱 I’m a Computer Science major @ Vanderbilt University.
+- 🌱 Computer Science major @ Vanderbilt University, Class of 2024.
 - 💬 Ask me about how to cook the perfect medium-rare rib-eye.
-- 📫 Reach me at jiakai.long@vanderbilt.edu
+- 📫 Reach me at kcajlong@outlook.com
 - 😄 Pronouns: He/Him/His
 
 <!--
